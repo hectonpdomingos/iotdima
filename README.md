@@ -3,7 +3,7 @@ IoT Dima's Project
 
 What is it?
 
-Last report: april 4, 2016 Created by Hecton Paulino Domingos   http://hectonpdomingos.com.br
+Last report: april 4, 2016 Created by Hecton Paulino Domingos  
 
 Dima's project is Internet of Things personal project with several sensors on arduino platform configured to monitor the environment around my son, Dimitri, and feedback via SMS (using SIM900 GSM module and ESP8266-e12 to access reall time data) if there is something wrong. The project is in development and I will update this page when I have progress.
 Details
